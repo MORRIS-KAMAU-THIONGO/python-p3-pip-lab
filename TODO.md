@@ -1,0 +1,2 @@
+- [x] Update the test_python_version assertion to check for Python 3.12 instead of 3.8
+- [ ] Run pytest to verify the test passes
